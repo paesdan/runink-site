@@ -30,7 +30,7 @@ jobs:
       - name: Build Hugo site
         env:
           HUGO_ENV: production
-        run: hugo --minify --config config.toml
+        run: hugo --minify
 
 
       - name: Deploy to GitHub Pages
