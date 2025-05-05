@@ -1,4 +1,4 @@
-baseURL = "https://runink.org/"
+baseURL = "https://www.runink.org"
 title = "Runink"
 theme = "relearn"
 defaultContentLanguage = "en"
