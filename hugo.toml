@@ -1,5 +1,5 @@
 baseURL = "https://www.runink.org"
-canonifyURLs = true:contentReference[oaicite:49]{index=49}
+canonifyURLs = true
 title = "Runink"
 theme = "relearn"
 defaultContentLanguage = "en"
